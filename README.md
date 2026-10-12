@@ -1,8 +1,8 @@
 ## Kabir ADEMON · développeur full-stack
 
-Je construis des applications web complètes, de la base de données jusqu'à l'écran, pour des problèmes concrets d'ici : crédit des boutiques de quartier, frais de scolarité, tontines, paiement Mobile Money.
 
-Je cherche un **stage** et des **missions freelance**.
+
+
 
 ![React](https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -24,8 +24,3 @@ Je cherche un **stage** et des **missions freelance**.
 | [**Auto-Organisation**](https://github.com/kabirADEMON/Auto-Organisation) | Tâches, habitudes et calendrier dans une PWA utilisable hors ligne. [En ligne](https://autoprogressive.vercel.app) | React · Firebase · PWA |
 | [**TypeMaster**](https://github.com/kabirADEMON/type-master) | Test de vitesse de frappe en JavaScript natif (défi Codementor). [En ligne](https://type-master-navy.vercel.app) | JavaScript |
 
-### Ma façon de travailler
-
-- **Les règles métier dans le code et dans la base**, pas seulement dans l'interface : contraintes SQL, transactions et verrous pour les opérations concurrentes.
-- **Des tests qui jouent les vrais parcours** : tests d'API, et parcours complets dans un navigateur avec Playwright.
-- **Pensé pour le terrain** : numéros béninois, francs CFA, Mobile Money, WhatsApp, connexions lentes.
